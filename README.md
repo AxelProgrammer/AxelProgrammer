@@ -16,7 +16,7 @@
   </div>
 
   <div style="display: flex; align-items: center;">
-      <div style="flex: 1;">
+      <div style="flex: 1; max-width: 650px">
           💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br>
           🎓 I'm currently studying at the Russian University of Chemical Technology.<br>
           🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br>
