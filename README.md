@@ -15,19 +15,10 @@
     </p>
   </div>
 
-  <div style="display: flex; align-items: center;">
-      <div style="flex: 1; max-width: 550px">
-          💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br>
-          🎓 I'm currently studying at the Russian University of Chemical Technology.<br>
-          🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br>
-          ❓ Ask me about PHP, Full Stack Development, Python. <br>
-          🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br>
-          🎯 I like to constantly learn new things.<br>
-      </div>
-      <div style="margin-left: 20px;">
-        <img src="img/for_the_About_Me_block.png" alt="Profile Image" style="width: 200px; margin-left: 20px; border-radius: 10px;">
-      </div>
-  </div>
+  |  |  |
+  |-------|------------|
+  | 💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br> 🎓 I'm currently studying at the Russian University of Chemical Technology.<br> 🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br> ❓ Ask me about PHP, Full Stack Development, Python.<br> 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br> 🎯 I like to constantly learn new things. | ![Изображение](img/for_the_About_Me_block.png) | 
+  |||
 
   <div align="right">
     <h3>Follow Me on:</h3>
