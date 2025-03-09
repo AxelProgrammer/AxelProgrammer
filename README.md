@@ -15,8 +15,8 @@
     </p>
   </div>
 
-  <div style="width: 1000px; display: flex; align-items: center; margin: 0 auto;">
-      <div style="width: 70%; margin: 0;">
+  <div style="display: flex; flex-direction: row; margin: 0 auto;">
+      <div style="width: 70%; margin: auto 0;">
           💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br>
           🎓 I'm currently studying at the Russian University of Chemical Technology.<br>
           🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br>
@@ -53,8 +53,8 @@
   <div align="center">
     <h2></> Languages & tools I Have placed My Hands On</h2>
   </div>
-  <div style="width: 1000px; display: flex; align-items: center; margin: 0 auto;  flex-direction: column; gap: 10px;">
-    <div style="display: flex; gap: 10px; align-items: center; margin: 0 auto; padding: 0 100px">
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
+    <div style="display: flex; justify-content: center; gap: 10px;">
       <img src="img/icons/tools/phpstorm.svg" alt="phpStorm">
       <img src="img/icons/tools/pycharm.svg" alt="PyCharm">
       <img src="img/icons/tools/vs_code.svg" alt="vs_code">
@@ -65,7 +65,7 @@
       <img src="img/icons/tools/premiere_pro.svg" alt="Adobe Premiere Pro">
       <img src="img/icons/tools/obs_studio.svg" alt="OBS Studio">
     </div>
-    <div style="display: flex; gap: 10px; align-items: center; margin: 0 auto; padding: 0 100px">
+    <div style="display: flex; justify-content: center; gap: 10px;">
       <img src="img/icons/languages/php.svg" alt="php">
       <img src="img/icons/languages/c_plus_plus.svg" alt="C++">
       <img src="img/icons/languages/js.svg" alt="js">
