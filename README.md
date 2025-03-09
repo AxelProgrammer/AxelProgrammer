@@ -1,7 +1,7 @@
 <div style="width: 100%; max-width: 900px; display: block; margin: 0 auto;">
   <img src="img/fon.png" alt="Pinterest">
   <div align="center">
-    <h1 style="color: #7559F8;">Axel is a developer🔥!</h1>
+    <h1 style="color: #3866cc;">Axel is a developer🔥!</h1>
   </div>
 
   <div align="center">
@@ -17,7 +17,7 @@
 
   |  |  |
   |-------|------------|
-  | 💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br> 🎓 I'm currently studying at the Russian University of Chemical Technology.<br> 🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br> ❓ Ask me about PHP, Full Stack Development, Python.<br> 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br> 🎯 I like to constantly learn new things. | ![Изображение](img/for_the_About_Me_block.png) | 
+  | 💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br> 🎓 I'm currently studying at the Russian University of Chemical Technology.<br> 🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br> ❓ Ask me about PHP, Full Stack Development, Python.<br> 🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br> 🎯 I like to constantly learn new things. | ![Изображение](img/for_the_About_Me_block.jpg) | 
   |||
 
   <div align="right">
