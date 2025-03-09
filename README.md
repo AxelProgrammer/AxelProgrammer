@@ -1,4 +1,4 @@
-<div style="width: 100%; max-width: 1000px; display: block; margin: 0 auto;">
+<div style="width: 100%; max-width: 900px; display: block; margin: 0 auto;">
   <img src="img/fon.png" alt="Pinterest">
   <div align="center">
     <h1 style="color: #7559F8;">Axel is a developer🔥!</h1>
@@ -16,7 +16,7 @@
   </div>
 
   <div style="display: flex; align-items: center;">
-      <div style="flex: 1; max-width: 650px">
+      <div style="flex: 1; max-width: 550px">
           💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br>
           🎓 I'm currently studying at the Russian University of Chemical Technology.<br>
           🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br>
