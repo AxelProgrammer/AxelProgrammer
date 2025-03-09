@@ -11,7 +11,7 @@
   <div style="width: 1000px; display: flex; margin: 0 auto; flex-direction: column;">
     <h2>🌟About Me </h2>
     <p>
-      <img src="https://img.shields.io/badge/Profile%20Views-369-blue" alt="Profile Views">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AxelProgrammer&mode=unique&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique%20Visitors&edge_flat=false" alt="Unique Visitors">
     </p>
   </div>
 
