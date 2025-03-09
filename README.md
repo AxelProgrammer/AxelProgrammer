@@ -15,8 +15,8 @@
     </p>
   </div>
 
-  <div style="display: flex; flex-direction: row; margin: 0 auto;">
-      <div style="width: 70%; margin: auto 0;">
+  <div style="display: flex; align-items: center;">
+      <div style="flex: 1;">
           💻 I work in front-end development and web design, while focusing on data science and AI/ML.<br>
           🎓 I'm currently studying at the Russian University of Chemical Technology.<br>
           🖥️ I worked on .Net Framework and Hands-on experience in Full Stack.<br>
@@ -24,7 +24,7 @@
           🤖 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br>
           🎯 I like to constantly learn new things.<br>
       </div>
-      <div style="width: 30%;">
+      <div style="margin-left: 20px;">
         <img src="img/for_the_About_Me_block.png" alt="Profile Image" style="width: 200px; margin-left: 20px; border-radius: 10px;">
       </div>
   </div>
@@ -53,22 +53,21 @@
   <div align="center">
     <h2></> Languages & tools I Have placed My Hands On</h2>
   </div>
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
-    <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="img/icons/tools/phpstorm.svg" alt="phpStorm">
-      <img src="img/icons/tools/pycharm.svg" alt="PyCharm">
-      <img src="img/icons/tools/vs_code.svg" alt="vs_code">
-      <img src="img/icons/tools/github.svg" alt="GitHub">
-      <img src="img/icons/tools/git-scm.svg" alt="git-scm">
-      <img src="img/icons/tools/figma.svg" alt="Figma">
-      <img src="img/icons/tools/notion.svg" alt="Notion">
-      <img src="img/icons/tools/premiere_pro.svg" alt="Adobe Premiere Pro">
-      <img src="img/icons/tools/obs_studio.svg" alt="OBS Studio">
-    </div>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-      <img src="img/icons/languages/php.svg" alt="php">
-      <img src="img/icons/languages/c_plus_plus.svg" alt="C++">
-      <img src="img/icons/languages/js.svg" alt="js">
-    </div>
-  </div>
+  <p align="center" style="margin: 0; margin-botton: 5px;">
+    <img src="img/icons/tools/phpstorm.svg" alt="phpStorm" style="padding-right: 5px">
+    <img src="img/icons/tools/pycharm.svg" alt="PyCharm" style="padding-right: 5px">
+    <img src="img/icons/tools/vs_code.svg" alt="vs_code" style="padding-right: 5px">
+    <img src="img/icons/tools/github.svg" alt="GitHub" style="padding-right: 5px">
+    <img src="img/icons/tools/git-scm.svg" alt="git-scm" style="padding-right: 5px">
+    <img src="img/icons/tools/figma.svg" alt="Figma" style="padding-right: 5px">
+    <img src="img/icons/tools/notion.svg" alt="Notion" style="padding-right: 5px">
+    <img src="img/icons/tools/premiere_pro.svg" alt="Adobe Premiere Pro" style="padding-right: 5px">
+    <img src="img/icons/tools/obs_studio.svg" alt="OBS Studio">
+  </p>
+
+  <p align="center" style="margin: 0;">
+    <img src="img/icons/languages/php.svg" alt="php" style="padding-right: 5px">
+    <img src="img/icons/languages/c_plus_plus.svg" alt="C++" style="padding-right: 5px">
+    <img src="img/icons/languages/js.svg" alt="js" style="padding-right: 5px">
+  </p>
 </div>
