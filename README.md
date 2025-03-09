@@ -46,7 +46,7 @@
   </div>
   <p align="center" style="margin: 0; margin-botton: 5px;">
     <img src="img/icons/tools/phpstorm.svg" alt="phpStorm" style="padding-right: 5px">
-    <img src="img/icons/tools/pycharm.svg" alt="PyCharm" style="padding-right: 5px">
+    <img src="img/icons/tools/pycharm.svg"  alt="PyCharm" style="padding-right: 5px">
     <img src="img/icons/tools/vs_code.svg" alt="vs_code" style="padding-right: 5px">
     <img src="img/icons/tools/github.svg" alt="GitHub" style="padding-right: 5px">
     <img src="img/icons/tools/git-scm.svg" alt="git-scm" style="padding-right: 5px">
@@ -60,5 +60,14 @@
     <img src="img/icons/languages/php.svg" alt="php" style="padding-right: 5px">
     <img src="img/icons/languages/c_plus_plus.svg" alt="C++" style="padding-right: 5px">
     <img src="img/icons/languages/js.svg" alt="js" style="padding-right: 5px">
+    <img src="img/icons/languages/python.svg" alt="Python">
   </p>
+
+  <div align="center">
+    <h2>⚡📊 GitHub Stats</h2>
+  </div>
+  <div align="center">
+    <h3 style="color:rgb(107, 100, 136);"> 🛠️☁️ A further block is under development. </h3>
+  </div>
+
 </div>
